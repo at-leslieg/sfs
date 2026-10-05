@@ -5,7 +5,7 @@ title Network Drive Setup Tool
 :: ==========================================
 :: CONFIGURATION: CHANGE THESE TO YOUR VALUES
 :: ==========================================
-set "IP_B=127.20.20.20"
+set "IP_B=172.20.20.20"
 
 
 set "SHARE_E=\\%IP_B%\e"
