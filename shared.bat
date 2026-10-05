@@ -6,7 +6,7 @@ title Network Drive Setup Tool
 :: CONFIGURATION: CHANGE THESE TO YOUR VALUES
 :: ==========================================
 set "IP_A=192.168.2.27"
-set "IP_B=172.20.20.20"
+set "IP_B=127.20.20.20"
 
 set "SHARE_Q=\\%IP_A%\q"
 set "SHARE_Z=\\%IP_A%\z"
